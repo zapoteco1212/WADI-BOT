@@ -1,0 +1,37 @@
+# WADI-BOT 💮 - By zapoteco1212
+
+# Dependencias
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+# Sesiones y Codes - NO SUBIR A GITHUB
+session/
+sessions/
+codes/
+auth/
+creds.json
+*.session-journal
+
+# Base de datos local
+database/economia.json
+database/owners.json
+database/codes.json
+database/prefixes.json
+database/*.json
+db.json
+
+# Sistema
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.log
+logs/
+
+# Temporal
+tmp/
+temp/
+.cache/
