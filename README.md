@@ -1,7 +1,7 @@
 # 💮 WADI-BOT v3.0
 
 <p align="center">
-  <img src="https://i.imgur.com/3QZQvNn.png" width="300">
+  <img src="https://i.imgur.com/7u6v5oL.png" width="250">
 </p>
 
 <p align="center">
