@@ -1,7 +1,7 @@
-global.botname = 'WADI-BOT v3.0'
-global.packname = '💮 WADI-BOT v3.0 🌊'
-global.author = 'by zapoteco1212 👑'
-global.wm = '💮 WADI-BOT v3.0 - by zapoteco1212'
 global.owner = [
-  ['527444200627', 'zapoteco1212 👑', true]
+  ['527444200627', 'zapoteco1212 👑 Creador', true],
+  ['527444317595', 'WADI-BOT v3.0 🌊', true]
 ]
+
+global.botNumber = '527444317595'
+global.botname = 'WADI-BOT v3.0'
