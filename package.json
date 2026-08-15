@@ -7,7 +7,7 @@
   "author": "zapoteco1212",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node main.js"
   },
   "keywords": [
     "wadi-bot",
