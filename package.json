@@ -1,30 +1,12 @@
 {
   "name": "wadi-bot",
-  "version": "2.0.0",
-  "description": "WADI-BOT 💮 - Bot de WhatsApp RPG + Economia + 10 Codes - By zapoteco1212",
+  "version": "3.0.0",
   "main": "index.js",
-  "type": "commonjs",
-  "author": "zapoteco1212",
-  "license": "MIT",
-  "scripts": {
-    "start": "node main.js"
-  },
-  "keywords": [
-    "wadi-bot",
-    "whatsapp-bot",
-    "baileys",
-    "rpg",
-    "economia",
-    "zapoteco1212"
-  ],
+  "type": "module",
+  "scripts": { "start": "node index.js" },
   "dependencies": {
-    "@whiskeysockets/baileys": "^7.0.0-rc14",
-    "axios": "^1.19.0",
-    "pino": "^10.3.1",
+    "baileys": "npm:@whiskeysockets/baileys@6.7.8",
     "qrcode-terminal": "^0.12.0",
-    "yt-search": "^2.13.1"
-  },
-  "engines": {
-    "node": ">=18.0.0"
+    "pino": "^8.16.0"
   }
 }
